@@ -7,6 +7,8 @@
 body{
 	background-color: #ececec;
 	min-width: 320px;
+	max-width: 800px;
+	margin: auto auto;
 }
 
 .container{
@@ -58,12 +60,6 @@ nav a{
 	background-color: #fff;
 	color: blueviolet;
 	border: 2px solid blueviolet;
-}
-.font-awesome{
-	background-color: #fff;
-	font-size: 1.5em;
-	background-color: none;
-	margin-right:0px;
 }
 .row{
 	display: flex;
